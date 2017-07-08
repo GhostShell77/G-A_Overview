@@ -6,7 +6,7 @@
 		- **Only if** new entity types and/or visual states are added and affect the pack significantly.
         - **Or** sub-classifications reach the max count (99).
 		- Resets version sub-classifications to 0 (ex. v3.00.00).
-	- BB = Presetupdate or changes amount
+	- BB = Preset update or changes amount
 		- Addition, deletion, split, rename and adjustements.
 	- XX = Layout change and minor coding changes
 		- Addition, deletion, split, rename and adjustements.

@@ -58,6 +58,7 @@ When combined with a Tab Layout, it includes the following presets for a minimal
     - **Navigation**, **Warpout** & **Brackets** presets
     - **Friendly Fleet**
     - **D-Scan: All**
+    - **Drones: Ennemy & Friendly**
 
 4. (Optional) Apply any of the following Optional preset packs by clicking on their links.  
 You may need them for more specialized presets:
