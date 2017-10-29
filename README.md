@@ -217,7 +217,7 @@ ___
         ✦ --- All
         ✪ --- Friendly: All
         ⁂ --- General
-        Ƶ --- Loot# G-A Overview Pack
+        Ƶ --- Loot
 
 
 #### Nomenclature
