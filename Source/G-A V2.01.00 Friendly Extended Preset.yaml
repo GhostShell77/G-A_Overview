@@ -1,0 +1,423 @@
+backgroundOrder:
+- 13
+- 44
+- 52
+- 11
+- 51
+- 50
+- 9
+- 12
+- 14
+- 10
+- 45
+- 15
+- 16
+- 19
+- 18
+- 20
+- 53
+- 21
+- 17
+- 48
+- 49
+backgroundStates:
+- 9
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 44
+- 45
+- 48
+- 50
+- 51
+- 52
+- 53
+columnOrder:
+- TAG
+- ICON
+- DISTANCE
+- NAME
+- TYPE
+- CORPORATION
+- ALLIANCE
+- FACTION
+- MILITIA
+- SIZE
+- VELOCITY
+- RADIALVELOCITY
+- TRANSVERSALVELOCITY
+- ANGULARVELOCITY
+flagOrder:
+- 13
+- 44
+- 52
+- 11
+- 51
+- 50
+- 9
+- 12
+- 14
+- 10
+- 45
+- 15
+- 16
+- 19
+- 18
+- 20
+- 53
+- 21
+- 17
+- 48
+- 49
+flagStates:
+- 9
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+overviewColumns:
+- ALLIANCE
+- CORPORATION
+- DISTANCE
+- ICON
+- NAME
+- TAG
+- TYPE
+- VELOCITY
+presets:
+- - '<color=0xFF9926E5>✪ - Friendly: Capitals</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 30
+        - 485
+        - 547
+        - 659
+        - 883
+        - 1538
+- - '<color=0xFF9926E5>✪ - Friendly: Carriers</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 547
+- - '<color=0xFF9926E5>✪ - Friendly: Dictors</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 541
+        - 894
+- - '<color=0xFF9926E5>✪ - Friendly: Dreads</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 485
+- - '<color=0xFF9926E5>✪ - Friendly: Logistics</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 832
+        - 1527
+        - 1538
+- - '<color=0xFF9926E5>✪ - Friendly: Recons</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 833
+        - 906
+- - '<color=0xFF9926E5>✪ - Friendly: SC/T</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 30
+        - 659
+shipLabelOrder:
+- pilot name
+- ship type
+- corporation
+- alliance
+- null
+shipLabels:
+- - null
+  - - - post
+      - ''
+    - - pre
+      - ''
+    - - state
+      - 0
+    - - type
+      - null
+- - alliance
+  - - - post
+      - ']</color><color=0xffffffff><b> |</b></color>'
+    - - pre
+      - '<fontsize=12><color=0xFFFF8811> ['
+    - - state
+      - 1
+    - - type
+      - alliance
+- - corporation
+  - - - post
+      - ']</color><color=0xffffffff><b> |</b></color>'
+    - - pre
+      - <fontsize=12><color=0xFFFF8811> [
+    - - state
+      - 1
+    - - type
+      - corporation
+- - pilot name
+  - - - post
+      - </color><color=0xffffffff><b> | </b></color> 
+    - - pre
+      - <fontsize=12><color=0xFF80e0ff>
+    - - state
+      - 1
+    - - type
+      - pilot name
+- - ship type
+  - - - post
+      - </color><color=0xffffffff><b> |</b></color>
+    - - pre
+      - <fontsize=12><color=0xFF7fffd4>
+    - - state
+      - 1
+    - - type
+      - ship type
+stateBlinks:
+- - background_13
+  - true
+- - background_44
+  - true
+- - background_50
+  - true
+- - background_51
+  - true
+- - background_9
+  - true
+- - flag_50
+  - true
+- - flag_51
+  - true
+- - flag_52
+  - true
+stateColorsNameList:
+- - flag_18
+  - orange
+tabSetup:
+- - 0
+  - - - bracket
+      - ''
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFF9926E5>✪ - Friendly: Capitals</color>'
+- - 1
+  - - - bracket
+      - '<color=0xFF9926E5>✪ - Friendly: Carriers</color>'
+    - - name
+      - '<fontsize=12><color=0xFF66CCFF><b> G-A Friendly Extended loaded ! </b></color></fontsize>
+
+        <fontsize=12><color=0xFFFF6666><b> • Apply another Preset Pack, or </b></color></fontsize>
+
+        <fontsize=12><color=0xFF66FF66><b> • Apply a Layout to finish </b></color></fontsize>'
+    - - overview
+      - '<color=0xFF9926E5>✪ - Friendly: Dictors</color>'
+- - 2
+  - - - bracket
+      - '<color=0xFF9926E5>✪ - Friendly: Dreads</color>'
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFF9926E5>✪ - Friendly: Logistics</color>'
+- - 3
+  - - - bracket
+      - '<color=0xFF9926E5>✪ - Friendly: Recons</color>'
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFF9926E5>✪ - Friendly: SC/T</color>'
+userSettings:
+- - applyOnlyToShips
+  - false
+- - overviewBroadcastsToTop
+  - true
