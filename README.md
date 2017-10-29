@@ -1,9 +1,9 @@
 # G-A Overview Pack
 ### Overview Pack for EVE Online
 
-The G-A Overview was created to provide a generalized, user-friendly overview, ready to use as is, with a solution to be adapted as required.
+The G-A Overview was created to provide a generalized, user-friendly overview, ready to use as it is, with a solution to be adapted as required.
 
-This project started with the desire to have a corporate display, for the different operations, and not have any problem of targeting during the activities in fleet.
+This project started with the desire to have a corporate display, for the different operations, and not to have any problem of targeting during the activities in fleet.
 
 ___
 
@@ -16,7 +16,7 @@ ___
 
 ___
 
-#### Version: actuelle: v1.00.00
+#### Current Version: v1.00.00
 
 - Updated: **2017.07.08**
 - For Release: **119.5**
