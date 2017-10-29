@@ -16,11 +16,11 @@ ___
 
 ___
 
-#### Current Version: v1.00.00
+#### Current Version: v2.01.00
 
-- Updated: **2017.07.08**
-- For Release: **119.5**
-- Compatible: **119.5**
+- Updated: **2017.10.29**
+- For Release: **Lifeblood V1.0**
+- Compatible: **Lifeblood V1.0**
 
 #### Links
 
@@ -122,7 +122,7 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 7. Select one of the copied files on the left list, click `Check All` on the top middle of the window, then click `Import`
 
 8. Repeat step 7 if you are importing individual packs + layouts instead of a Full profile.
-    - _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
+    - _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI in order to._
 ___
 
 #### Packs, Layouts & Presets
@@ -153,6 +153,7 @@ ___
         ※ - D-Scan: POS (-Cel +Mod)
         ※ - D-Scan: Ships (+Dro / Defensive)
         ※ - D-Scan: Ships (-Dro / Defensive)
+        ※ - D-Scan: Ships only (+ Drifters)
 
 - G-A Friendly Extended Preset
 
@@ -172,6 +173,7 @@ ___
         ✜ - PvE: Incursion
         ✜ - PvE: Mining
         ✜ - PvE: Ratting
+        ✜ - PvE: Planetary
 
 - G-A PvP Advanced Preset
 
@@ -233,7 +235,7 @@ ___
 
 ## Overview G-A
 
-Since we can't possibly please everyone with a perfect overview solution, players have taken upon themselves to make very useful modifications to the pack.
+Since we can't possibly please everyone with a perfect overview solution, players have take care themselves to make very useful modifications to the pack.
 
 Be sure to check them out!
 

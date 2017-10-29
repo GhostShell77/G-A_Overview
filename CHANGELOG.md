@@ -15,6 +15,17 @@
 
 #### --- Standard Versions ---
 
+##### Version v2.01.00 - Lifeblood-V1.0
+1. Layout
+	- Added refinery in the four layouts
+2. PVE/PVP
+	- Deleted all Customs Officials in PVE and PVP presets
+	- Added Event Entity in PVE - Basic
+	- Added new Moon Mining minerals in PVE - Mining
+	- Added PVE - Planetary Preset (Customs Offices, planets, Structures)
+3. D-Scan
+	- Added Ship only Preset (ships + Drifters Battleship)
+
 ##### Version v1.00.00 - 119.5
 1. Manual fork
 	- (Export pack from the game to the overview folder, then edit the .YAML file)
