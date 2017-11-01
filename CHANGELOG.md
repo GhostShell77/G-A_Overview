@@ -15,6 +15,35 @@
 
 #### --- Standard Versions ---
 
+##### Version v2.01.01 - Lifeblood-V1.0
+1. Core
+  - Added refinery in :
+    - Navigation (-Ship +Sta)
+    - Brackets: Navigation
+    - Brackets: Combat/Targets/Friendly (-Dro)
+    - Brackets: Combat/Targets/Friendly (+Dro)
+    - Brackets: Warpout (!)
+    - Brackets: Misc
+    - --- D-Scan: All
+    - Extra: Align Points
+2. D-Scan
+  - Added refinery in :
+    - D-Scan: Hunter (+Dro / Offensive)
+    - D-Scan: Hunter (-Dro / Offensive)
+    - D-Scan: Ships (+Dro / Defensive)
+    - D-Scan: Ships (-Dro / Defensive)
+3. PvE Advanced
+  Added refinery in :
+    - PvE: Ratting
+    - PvE: Incursion
+    - PvE: Mission Filter (+LCO +LCS)
+    - --- PvE: Basic (+Dro)
+    - PvE: Planetary
+4. PvP Advanced
+  Added refinery in :
+    - PvP: Structures
+    - PvP: Exploration
+
 ##### Version v2.01.00 - Lifeblood-V1.0
 1. Layout
 	- Added refinery in the four layouts
