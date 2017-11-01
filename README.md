@@ -16,9 +16,9 @@ ___
 
 ___
 
-#### Current Version: v2.01.00
+#### Current Version: v2.01.01
 
-- Updated: **2017.10.29**
+- Updated: **2017.11.01**
 - For Release: **Lifeblood V1.0**
 - Compatible: **Lifeblood V1.0**
 
