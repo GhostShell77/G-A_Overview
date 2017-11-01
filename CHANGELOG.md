@@ -33,14 +33,14 @@
     - D-Scan: Ships (+Dro / Defensive)
     - D-Scan: Ships (-Dro / Defensive)
 3. PvE Advanced
-  Added refinery in :
+  - Added refinery in :
     - PvE: Ratting
     - PvE: Incursion
     - PvE: Mission Filter (+LCO +LCS)
     - --- PvE: Basic (+Dro)
     - PvE: Planetary
 4. PvP Advanced
-  Added refinery in :
+  - Added refinery in :
     - PvP: Structures
     - PvP: Exploration
 
